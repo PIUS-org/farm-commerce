@@ -1,0 +1,20 @@
+{
+  "name": "pius-farm-multiseller-plan",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "PiUS 기획서 — 농수산물 산지직송 멀티셀러 커머스 플랫폼 (초안 v1)",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  }
+}
